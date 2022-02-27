@@ -41,9 +41,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    I am currently studying at the Ionian University, in the department of computer science.
-    We have been involved in many projects within our university. 
-    Beyond that we are still learning various aspects of computer science
+        I am currently studying at the Ionian University, in the department of computer science.
+        We have been involved in many projects within our university. 
+        Beyond that we are still learning various aspects of computer science
     
 education:
     - degree: MSc in Computer Science
